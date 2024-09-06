@@ -31,4 +31,16 @@
 |  |
 | ------- |
 | [1651-shuffle-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1651-shuffle-string) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
