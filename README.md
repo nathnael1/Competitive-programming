@@ -33,6 +33,7 @@
 ## Array
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0506-relative-ranks) |
 | [1651-shuffle-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1651-shuffle-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Tree
@@ -47,4 +48,12 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0543-diameter-of-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0506-relative-ranks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
