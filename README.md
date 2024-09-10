@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0412-fizz-buzz) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0412-fizz-buzz) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +40,7 @@
 | [1651-shuffle-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1651-shuffle-string) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Tree
 |  |
 | ------- |
@@ -59,4 +62,5 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0506-relative-ranks) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
