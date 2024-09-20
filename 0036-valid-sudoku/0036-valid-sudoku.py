@@ -1,7 +1,7 @@
 import numpy as np
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
-        # Check rows
+      
         row = set()
         for i in range(len(board)):
             for j in board[i]:
@@ -11,7 +11,6 @@ class Solution:
                     row.add(j)
             row = set()
         
-        # Check columns
         board = np.array(board)
         transposed = np.transpose(board)
         row = set()
@@ -23,7 +22,7 @@ class Solution:
                     row.add(j)
             row = set()
 
-        # Check subgrids
+        
         for k in range(9):
             if not self.valid_subgrid(board, k):
                 return False
