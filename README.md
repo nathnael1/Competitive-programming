@@ -27,6 +27,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0036-valid-sudoku) |
 | [0219-contains-duplicate-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0782-jewels-and-stones) |
@@ -45,6 +46,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0036-valid-sudoku) |
 | [0219-contains-duplicate-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0219-contains-duplicate-ii) |
 | [0506-relative-ranks](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0506-relative-ranks) |
 | [1651-shuffle-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1651-shuffle-string) |
@@ -92,6 +94,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0036-valid-sudoku) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Two Pointers
 |  |
