@@ -6,6 +6,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0412-fizz-buzz) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [2481-strictly-palindromic-number](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2481-strictly-palindromic-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
@@ -100,4 +101,9 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0125-valid-palindrome) |
+| [2481-strictly-palindromic-number](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2481-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
