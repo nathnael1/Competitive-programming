@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0412-fizz-buzz) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2481-strictly-palindromic-number](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2481-strictly-palindromic-number) |
@@ -12,6 +13,7 @@
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0412-fizz-buzz) |
@@ -22,6 +24,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0412-fizz-buzz) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2847-find-maximum-number-of-string-pairs) |
