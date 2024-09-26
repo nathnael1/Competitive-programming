@@ -22,6 +22,7 @@
 | [1651-shuffle-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2887-sort-vowels-in-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2887-sort-vowels-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2887-sort-vowels-in-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2887-sort-vowels-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
