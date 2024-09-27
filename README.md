@@ -129,4 +129,8 @@
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
