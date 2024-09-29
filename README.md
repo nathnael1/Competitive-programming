@@ -14,6 +14,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
