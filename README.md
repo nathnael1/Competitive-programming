@@ -23,6 +23,7 @@
 | [0782-jewels-and-stones](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0782-jewels-and-stones) |
 | [1651-shuffle-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2470-removing-stars-from-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2470-removing-stars-from-a-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2887-sort-vowels-in-a-string) |
 | [3540-hash-divided-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3540-hash-divided-string) |
@@ -33,6 +34,7 @@
 | [0412-fizz-buzz](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0412-fizz-buzz) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2470-removing-stars-from-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2470-removing-stars-from-a-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3540-hash-divided-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3540-hash-divided-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -144,4 +146,8 @@
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0178-rank-scores) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
