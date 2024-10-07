@@ -22,6 +22,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0782-jewels-and-stones) |
+| [1547-destination-city](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1547-destination-city) |
 | [1651-shuffle-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2470-removing-stars-from-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2470-removing-stars-from-a-string) |
@@ -46,6 +47,7 @@
 | [0219-contains-duplicate-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0782-jewels-and-stones) |
+| [1547-destination-city](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1547-destination-city) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -68,6 +70,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0219-contains-duplicate-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0219-contains-duplicate-ii) |
 | [0506-relative-ranks](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0506-relative-ranks) |
+| [1547-destination-city](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1547-destination-city) |
 | [1651-shuffle-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1651-shuffle-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1786-count-the-number-of-consistent-strings) |
