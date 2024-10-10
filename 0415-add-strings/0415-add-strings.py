@@ -1,16 +1,16 @@
-import sys
-sys.set_int_max_str_digits(10000)
 class Solution:
     def addStrings(self, num1: str, num2: str) -> str:
-        l1, l2 = len(num1),len(num2)
-        a = 0
-        b = 0
-        for i in range(l1):
-            s = ord(num1[i]) - 48
-            a  = a * 10 + s
-  
-        for i in range(l2):
-            s = ord(num2[i]) - 48
-            b = b * 10 + s
-        return str(a + b)
+        i, j = len(num1) - 1,len(num2) - 1
+        carry = 0
+        res = []
+        while i >= 0 or j >= 0 or carry:
+            n1 = ord(num1[i]) - ord('0') if i >= 0 else 0
+            n2 = ord(num2[j]) - ord('0') if j >= 0 else 0
+            total = n1 + n2 + carry
+            carry = total//10
+            res.append(str(total%10))
+            i-=1
+            j-=1
+        return "".join(res[::-1])
+
         
