@@ -31,9 +31,6 @@ class Solution:
                     result.append(items)
                     i-=1
     
-        print(res)
-        print(valid)
-        print(min_value)
         return result
 
         
