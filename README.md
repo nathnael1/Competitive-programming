@@ -90,6 +90,7 @@
 | [1651-shuffle-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1651-shuffle-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1791-richest-customer-wealth](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1833-find-the-highest-altitude) |
 | [1961-maximum-ice-cream-bars](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -153,6 +154,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0036-valid-sudoku) |
+| [1791-richest-customer-wealth](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1791-richest-customer-wealth) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Two Pointers
 |  |
