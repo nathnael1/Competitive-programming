@@ -13,6 +13,7 @@
 | [1674-minimum-operations-to-make-array-equal](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1761-count-sorted-vowel-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1761-count-sorted-vowel-strings) |
+| [1806-count-of-matches-in-tournament](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1806-count-of-matches-in-tournament) |
 | [2481-strictly-palindromic-number](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2481-strictly-palindromic-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -42,6 +43,7 @@
 | [0412-fizz-buzz](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0682-baseball-game) |
+| [1806-count-of-matches-in-tournament](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1806-count-of-matches-in-tournament) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2470-removing-stars-from-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2470-removing-stars-from-a-string) |
