@@ -107,6 +107,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3226-minimum-number-game) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Tree
 |  |
@@ -135,6 +136,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3226-minimum-number-game) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -171,6 +173,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2481-strictly-palindromic-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Brainteaser
 |  |
 | ------- |
