@@ -1,7 +1,6 @@
 class Solution {
 public:
     int findClosestNumber(vector<int>& nums) {
-        int max_value[2];
         int value = numeric_limits<int>::max();
         int res = 0;
        for(int i: nums){
