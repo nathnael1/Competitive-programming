@@ -6,6 +6,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0048-rotate-image) |
 | [0412-fizz-buzz](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1013-fibonacci-number) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0075-sort-colors) |
@@ -190,6 +192,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0054-spiral-matrix) |
 | [1791-richest-customer-wealth](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1791-richest-customer-wealth) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2631-sort-the-students-by-their-kth-score) |
