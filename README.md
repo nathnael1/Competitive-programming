@@ -75,6 +75,7 @@
 | [0013-roman-to-integer](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0383-ransom-note) |
@@ -99,6 +100,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0829-subdomain-visit-count](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0829-subdomain-visit-count) |
@@ -116,6 +118,7 @@
 | [0075-sort-colors](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0238-product-of-array-except-self) |
@@ -167,6 +170,7 @@
 | [0049-group-anagrams](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0242-valid-anagram) |
 | [0506-relative-ranks](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0506-relative-ranks) |
 | [1137-height-checker](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1137-height-checker) |
@@ -285,4 +289,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0014-longest-common-prefix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
