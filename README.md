@@ -31,6 +31,7 @@
 | [0049-group-anagrams](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
@@ -219,6 +220,7 @@
 | [0075-sort-colors](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1894-merge-strings-alternately) |
