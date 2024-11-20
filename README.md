@@ -26,6 +26,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0049-group-anagrams) |
@@ -264,6 +265,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0682-baseball-game) |
 | [2470-removing-stars-from-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2470-removing-stars-from-a-string) |
 ## Dynamic Programming
