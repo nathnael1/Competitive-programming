@@ -134,6 +134,7 @@
 | [0454-4sum-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0454-4sum-ii) |
 | [0506-relative-ranks](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0506-relative-ranks) |
 | [0609-find-duplicate-file-in-system](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0609-find-duplicate-file-in-system) |
+| [0643-maximum-average-subarray-i](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0682-baseball-game) |
 | [0722-remove-comments](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0722-remove-comments) |
 | [0829-subdomain-visit-count](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0829-subdomain-visit-count) |
@@ -211,6 +212,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0643-maximum-average-subarray-i) |
 ## Linked List
 |  |
 | ------- |
