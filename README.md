@@ -131,6 +131,7 @@
 | [0228-summary-ranges](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0303-range-sum-query-immutable) |
 | [0454-4sum-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0454-4sum-ii) |
 | [0506-relative-ranks](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0506-relative-ranks) |
 | [0609-find-duplicate-file-in-system](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0609-find-duplicate-file-in-system) |
@@ -307,6 +308,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0303-range-sum-query-immutable) |
 | [1833-find-the-highest-altitude](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1833-find-the-highest-altitude) |
 ## Trie
 |  |
@@ -316,4 +318,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
