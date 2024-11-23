@@ -56,6 +56,7 @@
 | [2502-sort-the-people](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2502-sort-the-people) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2887-sort-vowels-in-a-string) |
+| [3379-score-of-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3379-score-of-a-string) |
 | [3540-hash-divided-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3540-hash-divided-string) |
 ## Simulation
 |  |
