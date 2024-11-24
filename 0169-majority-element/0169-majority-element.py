@@ -1,7 +1,9 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        hashed = defaultdict(int)
+        count = 0
+        candidate = None
         for item in nums:
-            hashed[item]+=1
-        value = max(hashed,key = hashed.get)
-        return value
+            if count == 0:
+                candidate = item
+            count += (1 if candidate == item else -1)
+        return candidate
