@@ -3,5 +3,5 @@ class Solution:
         hashed = defaultdict(int)
         for item in nums:
             hashed[item]+=1
-        value = max(hashed, key = hashed.get)
+        value = max(hashed,key = hashed.get)
         return value
