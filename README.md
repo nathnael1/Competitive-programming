@@ -42,6 +42,7 @@
 | [0412-fizz-buzz](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0415-add-strings) |
 | [0609-find-duplicate-file-in-system](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0609-find-duplicate-file-in-system) |
+| [0680-valid-palindrome-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0680-valid-palindrome-ii) |
 | [0722-remove-comments](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0722-remove-comments) |
 | [0782-jewels-and-stones](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0782-jewels-and-stones) |
 | [0829-subdomain-visit-count](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0829-subdomain-visit-count) |
@@ -250,6 +251,7 @@
 | [0344-reverse-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0392-is-subsequence) |
+| [0680-valid-palindrome-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0680-valid-palindrome-ii) |
 | [1880-largest-merge-of-two-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1894-merge-strings-alternately) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -265,6 +267,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0011-container-with-most-water) |
+| [0680-valid-palindrome-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0680-valid-palindrome-ii) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1880-largest-merge-of-two-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1880-largest-merge-of-two-strings) |
 | [1961-maximum-ice-cream-bars](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1961-maximum-ice-cream-bars) |
