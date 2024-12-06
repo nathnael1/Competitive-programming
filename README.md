@@ -160,6 +160,7 @@
 | [1833-find-the-highest-altitude](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1833-find-the-highest-altitude) |
 | [1961-maximum-ice-cream-bars](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2195-time-needed-to-buy-tickets](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2195-time-needed-to-buy-tickets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -202,6 +203,7 @@
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1961-maximum-ice-cream-bars](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2566-number-of-unequal-triplets-in-array) |
