@@ -31,6 +31,7 @@
 | [0013-roman-to-integer](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0049-group-anagrams) |
@@ -254,6 +255,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0125-valid-palindrome) |
@@ -359,4 +361,8 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1014-k-closest-points-to-origin) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
