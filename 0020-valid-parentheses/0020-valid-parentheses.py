@@ -1,13 +1,14 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        res = []
+        res = [] 
         for i in s:
-            if i == "(":
-                res.append(")")
-            elif i == "[":
-                res.append("]")
-            elif i == "{":
-                res.append("}")
-            elif not res or res.pop()!=i:
+            if i == '(':
+                res.append(')')
+            elif i == '{':
+                res.append('}')
+            elif i == '[':
+                res.append(']')
+            elif not res or res.pop() != i :
                 return False
-        return not res
+        
+        return not res 
