@@ -1,11 +1,11 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-        hashed = {}
-        for c in magazine:
-            hashed[c] = hashed.get(c,0) + 1
+        hashed = Counter(magazine)
         for c in ransomNote:
-            if hashed.get(c,0) ==  0:
-                return False
-            hashed[c]-=1
+            if c in hashed and hashed[c]!=0:
+                hashed[c]-=1
+                continue
+            return False
         return True
+
 
