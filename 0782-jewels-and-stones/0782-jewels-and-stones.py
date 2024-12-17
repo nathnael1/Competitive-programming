@@ -1,8 +1,7 @@
 class Solution:
     def numJewelsInStones(self, jewels: str, stones: str) -> int:
-        hashed = set(jewels)
+        hashed = Counter(jewels)
         counter = 0
-        for stone in stones:
-            if stone in hashed:
-                counter+=1
+        for i in stones:
+            counter+=hashed[i]
         return counter
