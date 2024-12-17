@@ -157,6 +157,7 @@
 | [0722-remove-comments](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0722-remove-comments) |
 | [0829-subdomain-visit-count](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0829-subdomain-visit-count) |
 | [1014-k-closest-points-to-origin](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1014-k-closest-points-to-origin) |
+| [1019-squares-of-a-sorted-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -209,6 +210,7 @@
 | [0242-valid-anagram](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0242-valid-anagram) |
 | [0506-relative-ranks](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0506-relative-ranks) |
 | [1014-k-closest-points-to-origin](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1014-k-closest-points-to-origin) |
+| [1019-squares-of-a-sorted-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -271,6 +273,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0680-valid-palindrome-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1880-largest-merge-of-two-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1894-merge-strings-alternately) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
