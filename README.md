@@ -90,6 +90,7 @@
 | [0036-valid-sudoku](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0383-ransom-note) |
@@ -140,6 +141,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0238-product-of-array-except-self) |
@@ -201,6 +203,7 @@
 | [0056-merge-intervals](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0242-valid-anagram) |
 | [0506-relative-ranks](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0506-relative-ranks) |
 | [1014-k-closest-points-to-origin](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1014-k-closest-points-to-origin) |
