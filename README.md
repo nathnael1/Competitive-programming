@@ -180,6 +180,7 @@
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3226-minimum-number-game) |
@@ -373,4 +374,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2844-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
