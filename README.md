@@ -12,6 +12,7 @@
 | [0415-add-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1014-k-closest-points-to-origin) |
+| [1370-count-number-of-nice-subarrays](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1370-count-number-of-nice-subarrays) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -102,6 +103,7 @@
 | [0829-subdomain-visit-count](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0829-subdomain-visit-count) |
 | [1044-find-common-characters](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1044-find-common-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1297-maximum-number-of-balloons) |
+| [1370-count-number-of-nice-subarrays](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1370-count-number-of-nice-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1547-destination-city](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1547-destination-city) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -160,6 +162,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1137-height-checker) |
+| [1370-count-number-of-nice-subarrays](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1370-count-number-of-nice-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1547-destination-city](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1547-destination-city) |
@@ -244,6 +247,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0643-maximum-average-subarray-i) |
+| [1370-count-number-of-nice-subarrays](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Linked List
 |  |
@@ -347,6 +351,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0303-range-sum-query-immutable) |
+| [1370-count-number-of-nice-subarrays](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1833-find-the-highest-altitude](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1833-find-the-highest-altitude) |
 ## Trie
