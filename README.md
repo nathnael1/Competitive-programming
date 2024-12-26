@@ -134,6 +134,7 @@
 | [0001-two-sum](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0049-group-anagrams) |
@@ -206,6 +207,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0075-sort-colors) |
@@ -267,6 +269,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
