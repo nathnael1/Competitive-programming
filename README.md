@@ -213,6 +213,7 @@
 | [0049-group-anagrams](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0242-valid-anagram) |
@@ -256,6 +257,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0148-sort-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1765-merge-in-between-linked-lists) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Matrix
@@ -276,6 +278,7 @@
 | [0075-sort-colors](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0283-move-zeroes) |
@@ -367,6 +370,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0169-majority-element) |
 | [1014-k-closest-points-to-origin](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1014-k-closest-points-to-origin) |
 ## Design
@@ -389,4 +393,8 @@
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2844-sum-of-squares-of-special-elements) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
