@@ -57,6 +57,7 @@
 | [1651-shuffle-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1880-largest-merge-of-two-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2470-removing-stars-from-a-string) |
@@ -306,6 +307,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0680-valid-palindrome-ii) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1880-largest-merge-of-two-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1880-largest-merge-of-two-strings) |
 | [1961-maximum-ice-cream-bars](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
