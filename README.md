@@ -43,6 +43,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0412-fizz-buzz) |
@@ -103,6 +104,7 @@
 | [0242-valid-anagram](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0409-longest-palindrome) |
 | [0454-4sum-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0454-4sum-ii) |
 | [0609-find-duplicate-file-in-system](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0609-find-duplicate-file-in-system) |
@@ -224,6 +226,7 @@
 | [0169-majority-element](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0506-relative-ranks) |
 | [1014-k-closest-points-to-origin](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1019-squares-of-a-sorted-array) |
@@ -252,6 +255,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Sliding Window
