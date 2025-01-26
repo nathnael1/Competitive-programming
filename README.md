@@ -163,6 +163,7 @@
 | [0088-merge-sorted-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0217-contains-duplicate) |
@@ -388,6 +389,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
