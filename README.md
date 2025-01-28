@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0014-longest-common-prefix) |
@@ -299,6 +300,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0016-3sum-closest) |
@@ -363,6 +365,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
