@@ -22,6 +22,7 @@
 | [1806-count-of-matches-in-tournament](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1806-count-of-matches-in-tournament) |
 | [2481-strictly-palindromic-number](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2481-strictly-palindromic-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2556-convert-the-temperature](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
