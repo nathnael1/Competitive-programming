@@ -190,6 +190,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0682-baseball-game) |
 | [0722-remove-comments](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0722-remove-comments) |
+| [0777-toeplitz-matrix](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0777-toeplitz-matrix) |
 | [0829-subdomain-visit-count](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0829-subdomain-visit-count) |
 | [1014-k-closest-points-to-origin](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1019-squares-of-a-sorted-array) |
@@ -305,6 +306,7 @@
 | [0036-valid-sudoku](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0054-spiral-matrix) |
+| [0777-toeplitz-matrix](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0777-toeplitz-matrix) |
 | [1791-richest-customer-wealth](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1791-richest-customer-wealth) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Two Pointers
