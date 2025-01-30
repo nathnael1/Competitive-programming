@@ -3,7 +3,6 @@ class Solution:
         s = ""
         for i in digits:
             s += str(i)
-        s = str(int(s) + 1)
-        res = []
-        return [int(i) for i in s]
+        s = int(s) + 1
+        return [int(i) for i in str(s)]
         
