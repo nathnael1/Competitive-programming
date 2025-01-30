@@ -18,6 +18,7 @@
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1635-number-of-good-pairs](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1635-number-of-good-pairs) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1761-count-sorted-vowel-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1761-count-sorted-vowel-strings) |
@@ -126,6 +127,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1370-count-number-of-nice-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1547-destination-city](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1547-destination-city) |
+| [1635-number-of-good-pairs](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2502-sort-the-people](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2502-sort-the-people) |
@@ -147,6 +149,7 @@
 | [0829-subdomain-visit-count](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0829-subdomain-visit-count) |
 | [1297-maximum-number-of-balloons](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1297-maximum-number-of-balloons) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1635-number-of-good-pairs](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -195,6 +198,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1547-destination-city](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1547-destination-city) |
+| [1635-number-of-good-pairs](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1651-shuffle-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
