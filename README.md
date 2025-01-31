@@ -99,6 +99,7 @@
 | [0682-baseball-game](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0682-baseball-game) |
 | [1642-water-bottles](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1806-count-of-matches-in-tournament) |
+| [2058-concatenation-of-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2058-concatenation-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2195-time-needed-to-buy-tickets) |
 | [2232-adding-spaces-to-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -219,6 +220,7 @@
 | [1961-maximum-ice-cream-bars](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
+| [2058-concatenation-of-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2058-concatenation-of-array) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
