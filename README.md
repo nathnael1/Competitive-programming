@@ -143,6 +143,7 @@
 | [1635-number-of-good-pairs](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2117-find-original-array-from-doubled-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2117-find-original-array-from-doubled-array) |
 | [2502-sort-the-people](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -225,6 +226,7 @@
 | [2058-concatenation-of-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2058-concatenation-of-array) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2117-find-original-array-from-doubled-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2117-find-original-array-from-doubled-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2195-time-needed-to-buy-tickets](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2195-time-needed-to-buy-tickets) |
@@ -283,6 +285,7 @@
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2117-find-original-array-from-doubled-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -378,6 +381,7 @@
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2117-find-original-array-from-doubled-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Game Theory
 |  |
