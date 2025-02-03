@@ -6,11 +6,8 @@ class Solution:
         #going through each value to the step left or right by checking weathr it is
         #positive or negative and appending to the result
         for i in range(len(nums)):
-            if nums[i] > 0:
+            if nums[i] != 0:
                 index = (i+nums[i]) % len(nums)
-                res.append(nums[index])
-            elif nums[i] < 0:
-                index = (i - abs(nums[i])) % len(nums)
                 res.append(nums[index])
             else:
                 res.append(nums[i])
