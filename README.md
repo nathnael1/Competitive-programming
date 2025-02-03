@@ -143,6 +143,7 @@
 | [1547-destination-city](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1547-destination-city) |
 | [1635-number-of-good-pairs](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2117-find-original-array-from-doubled-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2117-find-original-array-from-doubled-array) |
 | [2502-sort-the-people](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2502-sort-the-people) |
@@ -224,6 +225,7 @@
 | [1961-maximum-ice-cream-bars](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1961-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2058-concatenation-of-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2058-concatenation-of-array) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -450,6 +452,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1833-find-the-highest-altitude](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1833-find-the-highest-altitude) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 ## Trie
 |  |
 | ------- |
