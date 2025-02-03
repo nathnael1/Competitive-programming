@@ -116,6 +116,7 @@
 | [3226-minimum-number-game](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3226-minimum-number-game) |
 | [3540-hash-divided-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3540-hash-divided-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3651-transformed-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3651-transformed-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -254,6 +255,7 @@
 | [3446-find-the-number-of-good-pairs-i](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3651-transformed-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3651-transformed-array) |
 ## Tree
 |  |
 | ------- |
