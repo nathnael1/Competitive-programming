@@ -1,8 +1,8 @@
 class Solution:
     def plusOne(self, digits: List[int]) -> List[int]:
-        s = ""
+        res = []
         for i in digits:
-            s += str(i)
-        s = int(s) + 1
-        return [int(i) for i in str(s)]
+            res.append(str(i))
+        res = int("".join(res)) + 1
+        return [int(i) for i in str(res)]
         
