@@ -135,6 +135,7 @@
 | [0217-contains-duplicate](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0389-find-the-difference) |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0829-subdomain-visit-count](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0829-subdomain-visit-count) |
@@ -208,6 +210,7 @@
 | [0238-product-of-array-except-self](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0454-4sum-ii) |
 | [0506-relative-ranks](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0560-subarray-sum-equals-k) |
@@ -289,6 +292,7 @@
 | [0169-majority-element](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0506-relative-ranks) |
 | [1014-k-closest-points-to-origin](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1014-k-closest-points-to-origin) |
@@ -316,6 +320,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0506-relative-ranks) |
 | [1014-k-closest-points-to-origin](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1014-k-closest-points-to-origin) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -476,6 +481,7 @@
 | [0053-maximum-subarray](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1014-k-closest-points-to-origin) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Design
@@ -489,6 +495,7 @@
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1014-k-closest-points-to-origin) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## String Matching
@@ -508,4 +515,8 @@
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2491-smallest-even-multiple) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
