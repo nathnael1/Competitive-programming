@@ -1,9 +1,9 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        counter = Counter(nums)
-        majority_key , majority_val = None, 0
-        for key,val in counter.items():
-            if val > majority_val:
-                majority_key,majority_val = key,val
-        return majority_key
-        
+        #we have to find the conter
+        majority_number = len(nums)//2
+        count = Counter(nums)
+        #and return the value if we found value > nums
+        for key,value in count.items():
+            if value > majority_number:
+                return key
