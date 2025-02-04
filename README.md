@@ -72,6 +72,7 @@
 | [0858-masking-personal-information](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0858-masking-personal-information) |
 | [1044-find-common-characters](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1044-find-common-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1297-maximum-number-of-balloons) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1547-destination-city](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1547-destination-city) |
 | [1651-shuffle-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -150,6 +151,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1297-maximum-number-of-balloons) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1370-count-number-of-nice-subarrays) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1547-destination-city](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1547-destination-city) |
 | [1635-number-of-good-pairs](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1635-number-of-good-pairs) |
@@ -178,6 +180,7 @@
 | [0829-subdomain-visit-count](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0829-subdomain-visit-count) |
 | [1297-maximum-number-of-balloons](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1297-maximum-number-of-balloons) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1786-count-the-number-of-consistent-strings) |
