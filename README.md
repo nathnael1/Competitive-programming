@@ -35,6 +35,7 @@
 | [2645-pass-the-pillow](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2645-pass-the-pillow) |
 | [2812-find-the-maximum-achievable-number](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2812-find-the-maximum-achievable-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
 | ------- |
@@ -161,6 +162,7 @@
 | [2566-number-of-unequal-triplets-in-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Queue
 |  |
 | ------- |
@@ -266,6 +268,7 @@
 | [3446-find-the-number-of-good-pairs-i](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3651-transformed-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3651-transformed-array) |
 ## Tree
 |  |
