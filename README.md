@@ -64,6 +64,7 @@
 | [0409-longest-palindrome](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0415-add-strings) |
+| [0500-keyboard-row](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0609-find-duplicate-file-in-system) |
 | [0680-valid-palindrome-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0680-valid-palindrome-ii) |
@@ -149,6 +150,7 @@
 | [0409-longest-palindrome](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0454-4sum-ii) |
+| [0500-keyboard-row](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0609-find-duplicate-file-in-system) |
@@ -229,6 +231,7 @@
 | [0347-top-k-frequent-elements](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0454-4sum-ii) |
+| [0500-keyboard-row](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0599-minimum-index-sum-of-two-lists) |
