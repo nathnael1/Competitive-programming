@@ -1,20 +1,23 @@
 class Solution:
     def findRestaurant(self, list1: List[str], list2: List[str]) -> List[str]:
+        #creating one hash table for the first list and caluating the min index for second
+        index_counter = {}
+        min_sum = float('inf')
+        for index in range(len(list1)): 
+            index_counter[list1[index]] = index
+
+        #appending to our res key for the minimum index
         res = []
-        min_index = float('inf')
-        #going through both the loop 
-        for i in range(len(list1)):
-            for j in range(len(list2)):
-                #Calculating sum index
-                #we are going to append our item but if the sum index is less than we are going to pop it
-                curr_index = i + j
-                if list1[i] == list2[j]:
-                    if curr_index < min_index:
-                        res = []
-                        res.append(list1[i])
-                        min_index = curr_index
-                    elif curr_index == min_index:
-                        res.append(list1[i])
+        for index in range(len(list2)):
+            if list2[index] in index_counter:
+                curr_sum = index_counter[list2[index]] + index
+                if curr_sum < min_sum:
+                    res = []
+                    res.append(list2[index])
+                    min_sum = curr_sum
+                elif curr_sum == min_sum:
+                    res.append(list2[index])
+
         #returning the result
         return res
             
