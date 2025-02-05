@@ -144,6 +144,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0409-longest-palindrome) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0560-subarray-sum-equals-k) |
 | [0609-find-duplicate-file-in-system](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0609-find-duplicate-file-in-system) |
@@ -220,6 +221,7 @@
 | [0283-move-zeroes](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0454-4sum-ii) |
 | [0506-relative-ranks](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0560-subarray-sum-equals-k) |
