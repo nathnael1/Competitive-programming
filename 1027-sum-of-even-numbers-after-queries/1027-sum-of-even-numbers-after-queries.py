@@ -11,7 +11,7 @@ class Solution:
 
         #going through each index and value 
         for value,index in queries:
-            #if the nums[i] + value is even we addd the value
+            #if the nums[i] + value is even we substract the nums index  else  we add only the value
             if nums[index] % 2 == 0:
                 sum_of_even_numbers-=nums[index]
             nums[index] += value
