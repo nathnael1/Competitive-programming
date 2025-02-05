@@ -3,26 +3,20 @@ class Solution:
         #res to store each element 
         res = []
 
-        #summing all the hash_values aftre creating it
-        hash_nums = {}
+        #summing all even creating it
         sum_of_even_numbers = 0
-        for i in range(len(nums)):
-            if nums[i] % 2 == 0:
-                hash_nums[i] = nums[i]
-                sum_of_even_numbers+=nums[i]
+        for num in nums:
+            if num % 2 == 0:
+                sum_of_even_numbers += num
 
-        for val,index in queries:
-            nums[index]+=val
-            if index in hash_nums:
-                if nums[index] % 2 != 0:
-                    sum_of_even_numbers -= hash_nums[index]
-                    hash_nums.pop(index)
-                else:
-                    hash_nums[index]+=val
-                    sum_of_even_numbers+=val
-            else:
-                if nums[index] %2 ==  0:
-                    hash_nums[index] = nums[index]
-                    sum_of_even_numbers += nums[index]
+        #going through each index and value 
+        for value,index in queries:
+            #if the nums[i] + value is even we addd the value
+            if nums[index] % 2 == 0:
+                sum_of_even_numbers-=nums[index]
+            nums[index] += value
+            if nums[index] % 2 == 0:
+                sum_of_even_numbers += nums[index]
             res.append(sum_of_even_numbers)
+
         return res
