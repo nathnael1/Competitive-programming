@@ -11,6 +11,7 @@
 | [0048-rotate-image](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0168-excel-sheet-column-title) |
+| [0380-insert-delete-getrandom-o1](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
@@ -144,6 +145,7 @@
 | [0229-majority-element-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0389-find-the-difference) |
@@ -229,6 +231,7 @@
 | [0283-move-zeroes](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0454-4sum-ii) |
 | [0500-keyboard-row](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0500-keyboard-row) |
@@ -515,6 +518,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0303-range-sum-query-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
 ## Geometry
 |  |
 | ------- |
@@ -546,4 +550,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0347-top-k-frequent-elements) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
