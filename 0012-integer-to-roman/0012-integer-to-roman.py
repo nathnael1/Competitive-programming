@@ -21,11 +21,11 @@ class Solution:
 
         i = 0
         res = []
-        while num > 0:
-            if num >= val[i][0]:
-                res.append(val[i][1])
-                num-=val[i][0]
-            else:
-                i+=1
+        for value,roman in  val:
+            if num == 0:
+                break
+            count = num//value
+            res.append(count*roman)
+            num -= count * value
         return "".join(res)
 
