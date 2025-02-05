@@ -15,9 +15,17 @@ class Solution:
             (4, 'IV'),
             (1, 'I')
         ]
-        res = ''
-        for number,roman in val:
-            count = num//number
-            res += count * roman
-            num-=count * number
-        return res
+        #To change the number to round number first we check if the number is greater than the first item
+        #on the val, if it is we append it to our arary and decrease our number by the value then
+        # if not we will do nothing
+
+        i = 0
+        res = []
+        while num > 0:
+            if num >= val[i][0]:
+                res.append(val[i][1])
+                num-=val[i][0]
+            else:
+                i+=1
+        return "".join(res)
+
