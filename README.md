@@ -13,6 +13,7 @@
 | [0168-excel-sheet-column-title](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0168-excel-sheet-column-title) |
 | [0412-fizz-buzz](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0415-add-strings) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1370-count-number-of-nice-subarrays) |
@@ -223,6 +224,7 @@
 | [0506-relative-ranks](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0560-subarray-sum-equals-k) |
 | [0609-find-duplicate-file-in-system](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0609-find-duplicate-file-in-system) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0682-baseball-game) |
 | [0722-remove-comments](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0722-remove-comments) |
@@ -305,6 +307,7 @@
 | [0347-top-k-frequent-elements](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [1014-k-closest-points-to-origin](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1137-height-checker) |
