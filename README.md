@@ -273,6 +273,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2058-concatenation-of-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2058-concatenation-of-array) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -393,6 +394,7 @@
 | [0777-toeplitz-matrix](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0861-flipping-an-image) |
 | [1791-richest-customer-wealth](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1791-richest-customer-wealth) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Two Pointers
 |  |
