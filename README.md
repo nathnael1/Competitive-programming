@@ -28,6 +28,7 @@
 | [1761-count-sorted-vowel-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1761-count-sorted-vowel-strings) |
 | [1806-count-of-matches-in-tournament](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1806-count-of-matches-in-tournament) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2481-strictly-palindromic-number](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2491-smallest-even-multiple) |
@@ -113,6 +114,7 @@
 | [1027-sum-of-even-numbers-after-queries](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1642-water-bottles](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1806-count-of-matches-in-tournament) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -181,6 +183,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2195-time-needed-to-buy-tickets) |
 ## Counting
 |  |
@@ -263,6 +266,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1833-find-the-highest-altitude) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1961-maximum-ice-cream-bars](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1961-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -479,6 +483,7 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
 | ------- |
