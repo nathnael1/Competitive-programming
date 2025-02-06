@@ -1,10 +1,12 @@
 class Solution:
     def countConsistentStrings(self, allowed: str, words: List[str]) -> int:
-        allowed = set(allowed)
-        counter = 0
+        #changing str to set
+        allowed_set = set(allowed)
+        res = 0
+
+        #changin each word to set and comparing if the string is a subset or not
         for word in words:
-            word = set(word)
-            result = word - allowed
-            if len(result) == 0:
-                counter+=1
-        return counter
+            word_set = set(word)
+            if word_set <= allowed_set:
+                res+=1
+        return res 
