@@ -112,6 +112,7 @@
 | [0415-add-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0898-transpose-matrix) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1642-water-bottles](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1806-count-of-matches-in-tournament) |
@@ -250,6 +251,7 @@
 | [0777-toeplitz-matrix](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0777-toeplitz-matrix) |
 | [0829-subdomain-visit-count](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0829-subdomain-visit-count) |
 | [0861-flipping-an-image](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0898-transpose-matrix) |
 | [1014-k-closest-points-to-origin](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1027-sum-of-even-numbers-after-queries) |
@@ -393,6 +395,7 @@
 | [0054-spiral-matrix](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0054-spiral-matrix) |
 | [0777-toeplitz-matrix](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2631-sort-the-students-by-their-kth-score) |
