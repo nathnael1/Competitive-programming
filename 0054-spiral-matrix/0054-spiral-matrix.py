@@ -1,44 +1,53 @@
 class Solution:
     def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
-        m, n = len(matrix), len(matrix[0])
-        ans = []
-        i, j = 0, 0
-        UP, RIGHT, DOWN, LEFT = 0, 1, 2, 3
-        direction = RIGHT
-        UP_WALL = 0
-        RIGHT_WALL = n
-        LEFT_WALL = -1
-        DOWN_WALL = m
-        while len(ans) != m*n:
-            if direction == RIGHT:
-                while j < RIGHT_WALL:
-                    ans.append(matrix[i][j])
+        row_length = len(matrix)
+        col_length = len(matrix[0])
+        all_element_length = row_length * col_length
+
+        #creating directions used for toggling
+        right,bottom,up,left = 0,1,2,3
+        direction = right
+        
+        #creating bound for left right bottom and top wall
+        up_wall = 0
+        left_wall = -1
+        right_wall = col_length
+        bottom_wall = row_length
+        i =  j = 0
+        res = []
+
+        while len(res) < all_element_length:
+            if direction == right:
+                while j < right_wall:
+                    res.append(matrix[i][j])
                     j+=1
-                i, j = i+1, j-1
-                RIGHT_WALL-=1
-                direction = DOWN
-            elif direction == DOWN:
-                while i < DOWN_WALL:
-                    ans.append(matrix[i][j])
+                i+=1
+                j-=1 #since j is out of bound
+                direction = bottom
+                right_wall -= 1  
+            elif direction == bottom:
+                while i < bottom_wall:
+                    res.append(matrix[i][j])
                     i+=1
-                i, j = i-1, j-1
-                DOWN_WALL -=1
-                direction = LEFT
-            elif direction == LEFT:
-                while j > LEFT_WALL:
-                    ans.append(matrix[i][j])
+                i-=1
+                j-=1 #since j is out of bound
+                direction = left
+                bottom_wall -= 1
+            elif direction == left:
+                while j > left_wall:
+                    res.append(matrix[i][j])
                     j-=1
-                i, j  = i-1, j+1
-                LEFT_WALL +=1
-                direction = UP
-            elif direction == UP:
-                while i > UP_WALL:
-                    ans.append(matrix[i][j])
+                i-=1
+                j+=1 #since j is out of bound
+                direction = up
+                left_wall +=1
+
+            elif direction == up:
+                while i > up_wall:
+                    res.append(matrix[i][j])
                     i-=1
-                i, j  = i+1, j+1
-                UP_WALL +=1
-                direction = RIGHT
-        return ans
-
-
-                
+                i+=1
+                j+=1 
+                direction = right
+                up_wall +=1
+        return res
