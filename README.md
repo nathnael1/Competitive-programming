@@ -176,6 +176,7 @@
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2117-find-original-array-from-doubled-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2117-find-original-array-from-doubled-array) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2502-sort-the-people](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -206,6 +207,7 @@
 | [1635-number-of-good-pairs](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Array
 |  |
@@ -294,6 +296,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2350-find-closest-number-to-zero](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2350-find-closest-number-to-zero) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2502-sort-the-people](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2566-number-of-unequal-triplets-in-array) |
