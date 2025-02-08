@@ -6,7 +6,6 @@ class Solution:
 
         #using dictionary to append when diagonal sum is equal 
         neg_diagonal = defaultdict(list)
-        pos_diagonal = defaultdict(list)
         for i in range(len(mat)):
             for j in range(len(mat[0])):
                 neg_diagonal[i+j].append(mat[i][j])
