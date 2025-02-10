@@ -4,9 +4,6 @@ class Solution:
 
         for items in image:
             items.reverse()
-            for index,entity in enumerate(items):
-                if entity == 1:
-                    items[index] = 0
-                else:
-                    items[index] = 1
+            for index in range(len(items)):
+                items[index]^= 1
         return image
