@@ -1,19 +1,12 @@
 from collections import Counter
 class Solution:
     def smallerNumbersThanCurrent(self, nums: List[int]) -> List[int]:
-        # #using counter for the array
-        # count_nums = Counter(nums)
-        # res = 0
-        # #finding numbers that are greaterrr
+        #sorting the array
+        counter = defaultdict(int)
+        sorted_array = sorted(nums)
 
-        res = []
-
-        #use double iteration to find the value that is less than i
+        #saving the original index for the key of sorted input
         for i in range(len(nums)):
-            count = 0
-            for j in range(len(nums)):
-                if nums[i] >nums[j]:
-                    count +=1
-            res.append(count)
-        
-        return res
+            if sorted_array[i] not in counter:
+                counter[sorted_array[i]] = i
+        return [counter[num] for num in nums]
