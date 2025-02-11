@@ -271,6 +271,7 @@
 | [0861-flipping-an-image](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0948-sort-an-array) |
+| [1009-pancake-sorting](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1009-pancake-sorting) |
 | [1014-k-closest-points-to-origin](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1027-sum-of-even-numbers-after-queries) |
@@ -361,6 +362,7 @@
 | [0506-relative-ranks](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0948-sort-an-array) |
+| [1009-pancake-sorting](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1009-pancake-sorting) |
 | [1014-k-closest-points-to-origin](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1137-height-checker) |
@@ -452,6 +454,7 @@
 | [0392-is-subsequence](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0680-valid-palindrome-ii) |
 | [0861-flipping-an-image](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0861-flipping-an-image) |
+| [1009-pancake-sorting](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1009-pancake-sorting) |
 | [1019-squares-of-a-sorted-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1880-largest-merge-of-two-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1894-merge-strings-alternately) |
@@ -477,6 +480,7 @@
 | [0409-longest-palindrome](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0680-valid-palindrome-ii) |
 | [0797-rabbits-in-forest](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0797-rabbits-in-forest) |
+| [1009-pancake-sorting](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1009-pancake-sorting) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1880-largest-merge-of-two-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1880-largest-merge-of-two-strings) |
