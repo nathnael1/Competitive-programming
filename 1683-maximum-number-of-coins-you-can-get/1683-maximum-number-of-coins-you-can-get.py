@@ -3,8 +3,12 @@ class Solution:
         #poping the first, second and the third  taking the value of the second
         piles.sort()
         res = 0
-        while piles:
+
+        #coins to take
+        coins= len(piles)//3
+        amount = 0
+        while coins != amount:
             piles.pop()
             res += piles.pop()
-            piles.pop(0)
+            amount+=1
         return res
