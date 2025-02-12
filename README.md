@@ -189,6 +189,7 @@
 | [2502-sort-the-people](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -319,6 +320,7 @@
 | [2502-sort-the-people](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2639-separate-the-digits-in-an-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2639-separate-the-digits-in-an-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -383,6 +385,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2887-sort-vowels-in-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -467,6 +470,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2481-strictly-palindromic-number) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Brainteaser
