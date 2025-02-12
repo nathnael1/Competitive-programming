@@ -74,6 +74,7 @@
 | [0609-find-duplicate-file-in-system](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0609-find-duplicate-file-in-system) |
 | [0680-valid-palindrome-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0680-valid-palindrome-ii) |
 | [0722-remove-comments](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0722-remove-comments) |
+| [0768-partition-labels](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0812-rotate-string) |
 | [0829-subdomain-visit-count](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0829-subdomain-visit-count) |
@@ -168,6 +169,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0609-find-duplicate-file-in-system) |
+| [0768-partition-labels](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0829-subdomain-visit-count) |
@@ -460,6 +462,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0768-partition-labels) |
 | [0861-flipping-an-image](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0861-flipping-an-image) |
 | [0917-boats-to-save-people](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1009-pancake-sorting) |
@@ -488,6 +491,7 @@
 | [0179-largest-number](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1009-pancake-sorting) |
