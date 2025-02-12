@@ -15,7 +15,7 @@ class Solution:
                 counter[s[i]]-=1
             temp_value.append(s[i])
             found = False
-            for c in "".join(temp_value):
+            for c in set("".join(temp_value)):
                 if counter[c]!=0:
                     found = True
                     break
