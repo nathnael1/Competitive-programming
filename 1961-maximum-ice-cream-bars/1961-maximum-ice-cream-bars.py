@@ -1,11 +1,16 @@
+from collections import Counter
 class Solution:
     def maxIceCream(self, costs: List[int], coins: int) -> int:
-        #greddy approach
-        costs.sort()
-        res  =0
+        #counting  sort
+        count_costs = Counter(costs)
+        cost_sorted = []
+        for i in range(max(costs)+1):
+            cost_sorted += [i]*count_costs[i]
         value = 0
-        #checking if the coin is greater than the cost
-        for price in costs:
+        res = 0
+        print(cost_sorted)
+        # checking if the coin is greater than the cost
+        for price in cost_sorted:
             value+=price
             if value > coins:
                 break
