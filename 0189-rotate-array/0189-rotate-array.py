@@ -3,17 +3,13 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        k =  k % len(nums)
-        left = nums[:-k]
-        right = nums[-k:]
-        rp  = 0
-        lp = 0
-        for i in range(len(nums)):
-            if rp < len(right):
-                nums[i] = right[rp]
-                rp+=1
-                continue
-            if lp < len(left):
-                nums[i] = left[lp]
-                lp+=1
-        
+        def reverse_index(start,end):
+            while start < end:
+                nums[start],nums[end] = nums[end],nums[start]
+                start+=1
+                end-=1
+        k = k % len(nums)
+        nums.reverse()
+        reverse_index(0,k-1)
+        reverse_index(k,len(nums)-1)
+
