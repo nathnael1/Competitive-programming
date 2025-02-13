@@ -72,6 +72,7 @@
 | [0415-add-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0500-keyboard-row) |
+| [0567-permutation-in-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0609-find-duplicate-file-in-system) |
 | [0680-valid-palindrome-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0680-valid-palindrome-ii) |
@@ -169,6 +170,7 @@
 | [0454-4sum-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0454-4sum-ii) |
 | [0500-keyboard-row](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0609-find-duplicate-file-in-system) |
 | [0768-partition-labels](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0768-partition-labels) |
@@ -422,6 +424,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1370-count-number-of-nice-subarrays) |
@@ -467,6 +470,7 @@
 | [0344-reverse-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0768-partition-labels) |
