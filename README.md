@@ -110,6 +110,7 @@
 | [2502-sort-the-people](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2502-sort-the-people) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2887-sort-vowels-in-a-string) |
+| [3195-separate-black-and-white-balls](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3195-separate-black-and-white-balls) |
 | [3379-score-of-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3379-score-of-a-string) |
 | [3540-hash-divided-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3540-hash-divided-string) |
 ## Simulation
@@ -492,6 +493,7 @@
 | [2481-strictly-palindromic-number](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2481-strictly-palindromic-number) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3195-separate-black-and-white-balls](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3195-separate-black-and-white-balls) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Brainteaser
 |  |
@@ -519,6 +521,7 @@
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2117-find-original-array-from-doubled-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3195-separate-black-and-white-balls](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3195-separate-black-and-white-balls) |
 ## Game Theory
 |  |
 | ------- |
