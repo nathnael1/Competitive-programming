@@ -301,6 +301,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1547-destination-city](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1547-destination-city) |
+| [1603-running-sum-of-1d-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1651-shuffle-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -591,6 +592,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1603-running-sum-of-1d-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1833-find-the-highest-altitude) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
