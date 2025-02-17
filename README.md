@@ -106,6 +106,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2232-adding-spaces-to-a-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2365-percentage-of-letter-in-string) |
+| [2465-shifting-letters-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2502-sort-the-people) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -332,6 +333,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2350-find-closest-number-to-zero](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2350-find-closest-number-to-zero) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2465-shifting-letters-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -596,6 +598,7 @@
 | [1833-find-the-highest-altitude](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1833-find-the-highest-altitude) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2465-shifting-letters-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2465-shifting-letters-ii) |
 ## Trie
 |  |
 | ------- |
