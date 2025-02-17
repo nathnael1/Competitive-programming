@@ -109,6 +109,7 @@
 | [2465-shifting-letters-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2502-sort-the-people) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2887-sort-vowels-in-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3195-separate-black-and-white-balls) |
@@ -199,6 +200,7 @@
 | [2421-maximum-number-of-pairs-in-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2502-sort-the-people](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -231,6 +233,7 @@
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Array
 |  |
 | ------- |
