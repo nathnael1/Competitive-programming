@@ -298,6 +298,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1028-interval-list-intersections](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1028-interval-list-intersections) |
 | [1044-find-common-characters](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -497,6 +498,7 @@
 | [0917-boats-to-save-people](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1009-pancake-sorting) |
 | [1019-squares-of-a-sorted-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1019-squares-of-a-sorted-array) |
+| [1028-interval-list-intersections](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1028-interval-list-intersections) |
 | [1880-largest-merge-of-two-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1894-merge-strings-alternately) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -673,4 +675,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0948-sort-an-array) |
+## Line Sweep
+|  |
+| ------- |
+| [1028-interval-list-intersections](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1028-interval-list-intersections) |
 <!---LeetCode Topics End-->
