@@ -455,6 +455,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0203-remove-linked-list-elements) |
 | [1765-merge-in-between-linked-lists](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1765-merge-in-between-linked-lists) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Matrix
@@ -584,6 +585,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0203-remove-linked-list-elements) |
 | [1013-fibonacci-number](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Memoization
