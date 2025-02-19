@@ -343,6 +343,7 @@
 | [2465-shifting-letters-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -410,6 +411,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2502-sort-the-people) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -538,6 +540,7 @@
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2117-find-original-array-from-doubled-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [3151-minimum-processing-time](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3151-minimum-processing-time) |
 | [3195-separate-black-and-white-balls](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/3195-separate-black-and-white-balls) |
 ## Game Theory
@@ -596,6 +599,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
@@ -613,6 +617,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2465-shifting-letters-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2465-shifting-letters-ii) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Trie
 |  |
 | ------- |
