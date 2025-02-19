@@ -456,6 +456,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0203-remove-linked-list-elements) |
+| [0838-design-linked-list](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0838-design-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1765-merge-in-between-linked-lists) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Matrix
@@ -640,6 +641,7 @@
 | [0303-range-sum-query-immutable](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0380-insert-delete-getrandom-o1) |
+| [0838-design-linked-list](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0838-design-linked-list) |
 ## Geometry
 |  |
 | ------- |
