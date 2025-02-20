@@ -5,16 +5,9 @@
 #         self.next = next
 class Solution:
     def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        #finding the total length
-        dummy = head
-        length = 0
-        while dummy:
-            length+=1
-            dummy = dummy.next
-        middle = length//2
-        while head:
-            if middle == 0:
-                break
+        #using 2 pointer technique
+        right = head
+        while right and right.next:
+            right= right.next.next
             head = head.next
-            middle-=1
         return head
