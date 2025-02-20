@@ -457,6 +457,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0908-middle-of-the-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1765-merge-in-between-linked-lists) |
@@ -591,6 +592,7 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Memoization
