@@ -462,6 +462,7 @@
 | [0148-sort-list](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0237-delete-node-in-a-linked-list) |
 | [0838-design-linked-list](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0908-middle-of-the-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1765-merge-in-between-linked-lists) |
