@@ -454,6 +454,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0203-remove-linked-list-elements) |
 | [0838-design-linked-list](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0838-design-linked-list) |
@@ -482,6 +483,7 @@
 | [0011-container-with-most-water](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
