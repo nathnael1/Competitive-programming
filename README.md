@@ -319,6 +319,7 @@
 | [1635-number-of-good-pairs](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1651-shuffle-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1791-richest-customer-wealth) |
@@ -406,6 +407,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1961-maximum-ice-cream-bars](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1961-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1970-sorting-the-sentence](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1970-sorting-the-sentence) |
@@ -551,6 +553,7 @@
 | [0917-boats-to-save-people](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1009-pancake-sorting) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1880-largest-merge-of-two-strings](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1880-largest-merge-of-two-strings) |
 | [1961-maximum-ice-cream-bars](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1961-maximum-ice-cream-bars) |
@@ -637,6 +640,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1603-running-sum-of-1d-array) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1833-find-the-highest-altitude](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1833-find-the-highest-altitude) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/nathnael1/A2SV-Competitive-programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
